@@ -42,7 +42,7 @@ namespace RVBConsulting.Library.Common
     #endregion [ Enums ]
 
     /// <summary>
-    /// Criptografia de texto
+    /// Criptografia de texto (jimmy)
     /// </summary>
     public static class CryptographyExtender
     {
